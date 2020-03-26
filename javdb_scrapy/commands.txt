@@ -1,0 +1,1 @@
+nohup python3 -u javdb_scraping.py > javdb02.out 2>&1 &
